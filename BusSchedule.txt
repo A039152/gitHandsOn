@@ -1,0 +1,5 @@
+This is bus schedule text file
+
+1A - 9:45
+2A - 10:30
+3A- 11:20
